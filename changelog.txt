@@ -1,0 +1,17 @@
+*** Jarvis Changelog ***
+
+
+
+
+23 May 2013 - Version 1.0
+
+
+	* Initial Release
+
+
+
+25 May 2013 - Version 1.1 (Shared on www.Ariyan.org)
+	* Fixed portfolio white spacing bug. Works fine with all screen sizes now.
+	* Google webfonts declaration has been shifted now to style.css
+	* Clicking on home logo now takes the page to about section.
+	
